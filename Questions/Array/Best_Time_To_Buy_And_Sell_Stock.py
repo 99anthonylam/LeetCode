@@ -1,3 +1,6 @@
+# Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+# Difficulty: Easy
+
 # Runtime: 72 ms, faster than 78.00% of Python3 online submissions for Best Time to Buy and Sell Stock.
 # Memory Usage: 14.9 MB, less than 5.75% of Python3 online submissions for Best Time to Buy and Sell Stock.
 

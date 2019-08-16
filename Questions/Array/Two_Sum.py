@@ -1,3 +1,6 @@
+# Link: https://leetcode.com/problems/two-sum/
+# Difficulty: Easy
+
 # Runtime: 52 ms, faster than 96.32% of Python3 online submissions for Two Sum.
 # Memory Usage: 15 MB, less than 9.06% of Python3 online submissions for Two Sum.
 
