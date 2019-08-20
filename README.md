@@ -1,6 +1,6 @@
 # Hello!
 
-This repository will track and document my progress through the top 75 LeetCode questions from [blind](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU). A question will be marked complete upon completion with a runtime faster than 67% of submissions.
+This repository will track and document my progress through the top 75 LeetCode questions from [blind](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU).
 
 ### Array
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
