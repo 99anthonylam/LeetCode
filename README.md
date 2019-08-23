@@ -1,6 +1,6 @@
 # Hello!
 
-This repository will track and document my progress through the top 75 LeetCode questions from [blind](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU). A question will be marked complete upon completion with a runtime faster than 67% of submissions.
+This repository will track and document my progress through the top 75 LeetCode questions from [blind](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU).
 
 ### Array
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -22,7 +22,7 @@ This repository will track and document my progress through the top 75 LeetCode 
 - [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 ### Dynamic Programming
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
@@ -35,7 +35,7 @@ This repository will track and document my progress through the top 75 LeetCode 
 - [ ] [Jump Game](https://leetcode.com/problems/jump-game/)
 
 ### Graph
-- [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)
+- [x] [Clone Graph](https://leetcode.com/problems/clone-graph/)
 - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
 - [ ] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
@@ -66,7 +66,7 @@ This repository will track and document my progress through the top 75 LeetCode 
 - [ ] [Word Search](https://leetcode.com/problems/word-search/)
 
 ### String
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
@@ -79,7 +79,7 @@ This repository will track and document my progress through the top 75 LeetCode 
 
 ### Tree
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
+- [x] [Same Tree](https://leetcode.com/problems/same-tree/)
 - [ ] [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
