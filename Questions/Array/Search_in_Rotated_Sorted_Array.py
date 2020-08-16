@@ -22,4 +22,3 @@ class Solution:
                 else:
                     r = mid
         return -1
-
